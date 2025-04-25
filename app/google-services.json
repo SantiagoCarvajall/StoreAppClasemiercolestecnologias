@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628157130731",
+    "project_id": "storeapp-df2fd",
+    "storage_bucket": "storeapp-df2fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628157130731:android:a14c0261642393265cdbae",
+        "android_client_info": {
+          "package_name": "me.santiagocarvajal.StoreApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_FWs9OKORrGmGC4BdtyZ5vSzN4HoIiKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
